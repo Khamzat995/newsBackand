@@ -1,0 +1,22 @@
+{
+  "name": "euronews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khamzat",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.7",
+    "mongoose": "^5.13.3"
+  }
+}
